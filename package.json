@@ -1,0 +1,13 @@
+{
+  "name": "try-astring",
+  "repository": {
+    "type": "git",
+    "url": "prezzemolo:prezzemolo/try-astring.git"
+  },
+  "author": "prezzemolo <contact@prezzemolo.ga>",
+  "license": "WTFPL",
+  "private": true,
+  "devDependencies": {
+    "astring": "^1.2.0"
+  }
+}
